@@ -29,7 +29,7 @@ public class Main {
         double s = Math.toDegrees(Math.PI * 2);     // Returns degrees
         double t = Math.cos(Math.toRadians(Math.PI * 2)); // Nested method calls
 
-        // IV: Comparison function
+        // IV: Comparison functions
         double max = Math.max(1,2);  // Returns 2
         double min = Math.min(1,2);  // Returns 1
     }
